@@ -22,9 +22,9 @@ I implemented and compared different **classification models** to determine the 
   - **8 predictors**: Age, Gender, BMI, Smoking, Genetic Risk, Physical Activity, Alcohol Intake, Cancer History  
 
 🗂 **Files in this repository:**  
-- `cancer_prediction.ipynb` → Jupyter Notebook with model training & evaluation  
-- `cancer_dataset.csv` → Preprocessed dataset used in the study  
-- `presentation.pdf` → Project slides summarizing the findings & showing graphs
+- `ML Cancer project.ipynb` → Jupyter Notebook main code 
+- `cancerdata.csv` → Raw dataset used in the study before preprocessing
+- `ML cancer prediction PPT (1).pdf` → Project slides summarizing the findings & showing graphs
 
 ---
 
